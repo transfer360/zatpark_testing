@@ -1,4 +1,4 @@
-module zatpark_testing
+module github.com/transfer360/zatpark_testing
 
 go 1.19
 
