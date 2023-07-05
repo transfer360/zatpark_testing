@@ -2,8 +2,8 @@ package search
 
 import (
 	"github.com/transfer360/sys360/vehicle_search"
+	"github.com/transfer360/zatpark_testing/zatpark_errors"
 	"strings"
-	"zatpark_testing/zatpark_errors"
 )
 
 func Search(sr vehicle_search.SearchRequest) (result vehicle_search.SearchResult, err error) {
