@@ -1,4 +1,4 @@
-package zatpark_testing
+package vehicles
 
 import "strings"
 
